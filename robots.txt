@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Allow: /
+Sitemap: https://qqq1212341.github.io/kkultem/sitemap.xml
